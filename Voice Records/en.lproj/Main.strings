@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "00:06:47"; ObjectID = "0Nf-BC-cM2"; */
+"0Nf-BC-cM2.text" = "00:06:47";
+
+/* Class = "UIButton"; normalTitle = "No, Keep It"; ObjectID = "3nS-ei-k5J"; */
+"3nS-ei-k5J.normalTitle" = "No, Keep It";
+
+/* Class = "UILabel"; text = "Recordings (24)"; ObjectID = "4Kp-iE-gaZ"; */
+"4Kp-iE-gaZ.text" = "Recordings (24)";
+
+/* Class = "UITextField"; text = "Recording Name"; ObjectID = "4Tu-KG-Bb4"; */
+"4Tu-KG-Bb4.text" = "Recording Name";
+
+/* Class = "UILabel"; text = "this action will delete the Record,\nwith no ability to cancel it"; ObjectID = "4eE-9c-YfB"; */
+"4eE-9c-YfB.text" = "this action will delete the Record,\nwith no ability to cancel it";
+
+/* Class = "UILabel"; text = "00:46.26"; ObjectID = "4hW-GM-sfm"; */
+"4hW-GM-sfm.text" = "00:46.26";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "7FO-bI-v4p"; */
+"7FO-bI-v4p.normalTitle" = "Edit";
+
+/* Class = "UITextField"; text = "Recording Name"; ObjectID = "80j-As-tvp"; */
+"80j-As-tvp.text" = "Recording Name";
+
+/* Class = "UILabel"; text = "No Folder"; ObjectID = "MW0-cg-joS"; */
+"MW0-cg-joS.text" = "No Folder";
+
+/* Class = "UILabel"; text = "Fri, 02 June 2021"; ObjectID = "Nal-BR-Igg"; */
+"Nal-BR-Igg.text" = "Fri, 02 June 2021";
+
+/* Class = "UILabel"; text = "00:46.26"; ObjectID = "S4T-eP-5wT"; */
+"S4T-eP-5wT.text" = "00:46.26";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "ZW2-H6-yZO"; */
+"ZW2-H6-yZO.placeholder" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "bPY-Gw-icE"; */
+"bPY-Gw-icE.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "My Last Record"; ObjectID = "bbd-91-i0d"; */
+"bbd-91-i0d.text" = "My Last Record";
+
+/* Class = "UIButton"; normalTitle = "Yes, Delete"; ObjectID = "cWd-b7-nyu"; */
+"cWd-b7-nyu.normalTitle" = "Yes, Delete";
+
+/* Class = "UILabel"; text = "Your Record successfully saved"; ObjectID = "e5d-Zt-Up8"; */
+"e5d-Zt-Up8.text" = "Your Record successfully saved";
+
+/* Class = "UILabel"; text = "My First Record"; ObjectID = "hhp-Xv-2h5"; */
+"hhp-Xv-2h5.text" = "My First Record";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "uy1-Vl-1cl"; */
+"uy1-Vl-1cl.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Your Record will be deleted"; ObjectID = "wbX-ae-Y7K"; */
+"wbX-ae-Y7K.text" = "Your Record will be deleted";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "xyC-Tl-Sga"; */
+"xyC-Tl-Sga.normalTitle" = "Cancel";

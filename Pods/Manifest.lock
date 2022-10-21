@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.4.4)
+  - DropDown (2.3.13)
+  - FittedSheets (2.4.2)
+  - IQKeyboardManagerSwift (6.5.6)
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
+  - SoundWave (0.1.4)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown
+  - FittedSheets
+  - IQKeyboardManagerSwift
+  - SDWebImage
+  - SoundWave
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - FittedSheets
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SoundWave
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  FittedSheets: 661408776eb4ff514a31da75b3600bd7222b2b3d
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+  SoundWave: d98ffaa863570b29d991da32a09b7ce1b4aaf2d4
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: d07305c463bef98091a1d97326b91ce526baf8c3
+
+COCOAPODS: 1.11.2
